@@ -1,2 +1,2 @@
-> # The Camera.js website
-This `gh-pages` branch was used for Camera.js website to promote Camera.js. 
+> # The WebCamera.js website
+This `gh-pages` branch was used for WebCamera.js website to promote WebCamera.js. 
